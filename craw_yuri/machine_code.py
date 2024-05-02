@@ -8,8 +8,8 @@ import pandas as pd
 browser = webdriver.Chrome()
 
 url = "https://www.wanted.co.kr/wdlist/518/1634?country=kr&job_sort=job.recommend_order&years=-1&locations=all"
-USERNAME = 'aa203dldbfl@swu.ac.kr'
-PASSWORD = '2024swu!!'
+USERNAME = '*******'
+PASSWORD = '********'
 
 # 해당 페이지 열기
 browser.get(url)
