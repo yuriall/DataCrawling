@@ -8,8 +8,8 @@ import pandas as pd
 browser = webdriver.Chrome()
 
 url = "https://www.wanted.co.kr/search?query=%EB%8D%B0%EC%9D%B4%ED%84%B0"
-USERNAME = 'aa203dldbfl@swu.ac.kr'
-PASSWORD = '2024swu!!'
+USERNAME = '*********'
+PASSWORD = '********'
 
 # 해당 페이지 열기
 browser.get(url)
